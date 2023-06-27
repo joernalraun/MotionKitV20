@@ -1,0 +1,15 @@
+{
+    "maqueen": "",
+    "maqueen.ultrasonic": "Ultraschall",
+    "maqueen.servoRun": "Servomotor",
+    "maqueen.motorRun": "Motoren laufen",
+    "maqueen.motorStop": "Motoren stoppen",
+    "maqueen.writeLED": "LED steuern",
+    "maqueen.setColor": "RGB-LED Farbe einstellen",
+    "maqueen.setRgb": "RGB-LED steuern",
+    "maqueen.readPatrol": "Liniensensor",
+    "maqueen.getVersion": "Versionsnummer",
+    "maqueen.irRead": "IR-Fernbedienung",
+    "maqueen.irEvent": "IR-Steuerung"
+    
+}
