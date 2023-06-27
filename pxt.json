@@ -1,6 +1,6 @@
 {
-    "name": "maqueen",
-    "version": "0.0.3",
+    "name": "MotionKit",
+    "version": "0.0.4",
     "description": "",
     "license": "MIT",
     "dependencies": {
@@ -9,6 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "_locales/de/maqueen-strings.json",
+        "_locales/de/maqueen-jsdoc-strings.json",
         "_locales/zh-cn/maqueen-strings.json",
         "_locales/zh-cn/maqueen-jsdoc-strings.json",
         "README.md",
