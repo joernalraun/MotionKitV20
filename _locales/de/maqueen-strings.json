@@ -13,14 +13,14 @@
     "maqueen.Patrol.PatrolRight|block": "rechter Liniensensor",
 
     "maqueen.ultrasonic|block": "Entfernung|%unit",
-    "maqueen.servoRun|block": "Servo|%index|角Grad度|%angle",
+    "maqueen.servoRun|block": "Servo|%index|Grad|%angle",
     "maqueen.motorRun|block": "Motor|%index|bewege|%Dir|mit|%speed",
     "maqueen.motorStop|block": "Motor |%motors|stop",
     "maqueen.writeLED|block": "LEDlinks|%led|%ledswitch",
     "maqueen.setColor|block": "LED Farbe|%color",
-    "maqueen.setRgb|block": "rot|%red grün|%green blebú|%blue",
+    "maqueen.setRgb|block": "rot|%red grün|%green blau|%blue",
     "maqueen.readPatrol|block":"Licht|%patrol",
-    "maqueen.getVersion|block": "Versinsnummer",
+    "maqueen.getVersion|block": "Versionsnummer",
     "maqueen.irRead|block": "IR-Wert",
     "maqueen.irEvent|block": "IR Wert lesen",
     "maqueen|block": "MotionKit"
